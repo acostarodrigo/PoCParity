@@ -1,0 +1,7 @@
+#password file for parity nodes
+node.pwds
+
+# ignore blockchain folders for nodes
+./node0
+./node1
+./node2
