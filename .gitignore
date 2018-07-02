@@ -5,3 +5,7 @@ node.pwds
 ./node0
 ./node1
 ./node2
+
+# ignore truffle stuff
+contracts/node_modules
+contracts/build
